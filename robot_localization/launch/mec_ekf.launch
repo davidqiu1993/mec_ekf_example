@@ -1,0 +1,9 @@
+<launch>
+
+  <!-- Choose RVIZ -->
+  <arg name="rviz_odom" default="true" />
+  <arg name="rviz_utm" default="true" />
+
+  <!-- Launch local and global ekf nodes -->
+  <include file="$(find robot_localization)/launch/dual_ekf.launch"/>
+</launch>

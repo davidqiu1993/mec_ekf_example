@@ -1,0 +1,355 @@
+{
+  "keys": {}, 
+  "groups": {
+    "pluginmanager": {
+      "keys": {
+        "running-plugins": {
+          "type": "repr", 
+          "repr": "{u'rqt_plot/Plot': [6, 5, 4, 3, 2, 1]}"
+        }
+      }, 
+      "groups": {
+        "plugin__rqt_plot__Plot__1": {
+          "keys": {}, 
+          "groups": {
+            "dock_widget__DataPlotWidget": {
+              "keys": {
+                "dockable": {
+                  "type": "repr", 
+                  "repr": "True"
+                }, 
+                "parent": {
+                  "type": "repr", 
+                  "repr": "None"
+                }, 
+                "dock_widget_title": {
+                  "type": "repr", 
+                  "repr": "u'PyQtGraph'"
+                }
+              }, 
+              "groups": {}
+            }, 
+            "plugin": {
+              "keys": {
+                "autoscroll": {
+                  "type": "repr", 
+                  "repr": "True"
+                }, 
+                "plot_type": {
+                  "type": "repr", 
+                  "repr": "1"
+                }, 
+                "topics": {
+                  "type": "repr", 
+                  "repr": "[u'/odometry/filtered_map/pose/pose/position/x', u'/span/pose/pose/pose/position/x']"
+                }, 
+                "y_limits": {
+                  "type": "repr", 
+                  "repr": "[602471.0657595233, 602688.1896854944]"
+                }, 
+                "x_limits": {
+                  "type": "repr", 
+                  "repr": "[-16722742.92241134, -16722637.859696764]"
+                }
+              }, 
+              "groups": {}
+            }
+          }
+        }, 
+        "plugin__rqt_plot__Plot__2": {
+          "keys": {}, 
+          "groups": {
+            "dock_widget__DataPlotWidget": {
+              "keys": {
+                "dockable": {
+                  "type": "repr", 
+                  "repr": "True"
+                }, 
+                "parent": {
+                  "type": "repr", 
+                  "repr": "None"
+                }, 
+                "dock_widget_title": {
+                  "type": "repr", 
+                  "repr": "u'PyQtGraph (2)'"
+                }
+              }, 
+              "groups": {}
+            }, 
+            "plugin": {
+              "keys": {
+                "autoscroll": {
+                  "type": "repr", 
+                  "repr": "False"
+                }, 
+                "plot_type": {
+                  "type": "repr", 
+                  "repr": "1"
+                }, 
+                "topics": {
+                  "type": "repr", 
+                  "repr": "[u'/odometry/filtered_map/pose/pose/position/y', u'/span/pose/pose/pose/position/y']"
+                }, 
+                "y_limits": {
+                  "type": "repr", 
+                  "repr": "[4479139.857437117, 4479583.970630793]"
+                }, 
+                "x_limits": {
+                  "type": "repr", 
+                  "repr": "[-16722749.00336396, -16722628.823982019]"
+                }
+              }, 
+              "groups": {}
+            }
+          }
+        }, 
+        "plugin__rqt_plot__Plot__3": {
+          "keys": {}, 
+          "groups": {
+            "dock_widget__DataPlotWidget": {
+              "keys": {
+                "dockable": {
+                  "type": "repr", 
+                  "repr": "True"
+                }, 
+                "parent": {
+                  "type": "repr", 
+                  "repr": "None"
+                }, 
+                "dock_widget_title": {
+                  "type": "repr", 
+                  "repr": "u'PyQtGraph (3)'"
+                }
+              }, 
+              "groups": {}
+            }, 
+            "plugin": {
+              "keys": {
+                "autoscroll": {
+                  "type": "repr", 
+                  "repr": "True"
+                }, 
+                "plot_type": {
+                  "type": "repr", 
+                  "repr": "1"
+                }, 
+                "topics": {
+                  "type": "repr", 
+                  "repr": "[u'/span/pose/pose/pose/position/z', u'/odometry/filtered_map/pose/pose/position/z']"
+                }, 
+                "y_limits": {
+                  "type": "repr", 
+                  "repr": "[314.29463417553575, 376.1350994605065]"
+                }, 
+                "x_limits": {
+                  "type": "repr", 
+                  "repr": "[-16722735.664820496, -16722670.174285121]"
+                }
+              }, 
+              "groups": {}
+            }
+          }
+        }, 
+        "plugin__rqt_plot__Plot__4": {
+          "keys": {}, 
+          "groups": {
+            "dock_widget__DataPlotWidget": {
+              "keys": {
+                "dockable": {
+                  "type": "repr", 
+                  "repr": "True"
+                }, 
+                "parent": {
+                  "type": "repr", 
+                  "repr": "None"
+                }, 
+                "dock_widget_title": {
+                  "type": "repr", 
+                  "repr": "u'PyQtGraph (4)'"
+                }
+              }, 
+              "groups": {}
+            }, 
+            "plugin": {
+              "keys": {
+                "autoscroll": {
+                  "type": "repr", 
+                  "repr": "True"
+                }, 
+                "plot_type": {
+                  "type": "repr", 
+                  "repr": "1"
+                }, 
+                "topics": {
+                  "type": "repr", 
+                  "repr": "[u'/novatel/rpy/vector/y', u'/xsens/rpy_transformed/vector/y', u'/filter/rpy/vector/y']"
+                }, 
+                "y_limits": {
+                  "type": "repr", 
+                  "repr": "[-7.70649982153683, 31.123953986178655]"
+                }, 
+                "x_limits": {
+                  "type": "repr", 
+                  "repr": "[-16722526.697128296, -16722520.753628492]"
+                }
+              }, 
+              "groups": {}
+            }
+          }
+        }, 
+        "plugin__rqt_plot__Plot__5": {
+          "keys": {}, 
+          "groups": {
+            "dock_widget__DataPlotWidget": {
+              "keys": {
+                "dockable": {
+                  "type": "repr", 
+                  "repr": "True"
+                }, 
+                "parent": {
+                  "type": "repr", 
+                  "repr": "None"
+                }, 
+                "dock_widget_title": {
+                  "type": "repr", 
+                  "repr": "u'PyQtGraph (5)'"
+                }
+              }, 
+              "groups": {}
+            }, 
+            "plugin": {
+              "keys": {
+                "autoscroll": {
+                  "type": "repr", 
+                  "repr": "True"
+                }, 
+                "plot_type": {
+                  "type": "repr", 
+                  "repr": "1"
+                }, 
+                "topics": {
+                  "type": "repr", 
+                  "repr": "[u'/xsens/rpy_transformed/vector/x', u'/novatel/rpy/vector/x', u'/filter/rpy/vector/x']"
+                }, 
+                "y_limits": {
+                  "type": "repr", 
+                  "repr": "[-6.943949800982187, 57.196485881971626]"
+                }, 
+                "x_limits": {
+                  "type": "repr", 
+                  "repr": "[-16722596.298824418, -16722520.624598503]"
+                }
+              }, 
+              "groups": {}
+            }
+          }
+        }, 
+        "plugin__rqt_plot__Plot__6": {
+          "keys": {}, 
+          "groups": {
+            "dock_widget__DataPlotWidget": {
+              "keys": {
+                "dockable": {
+                  "type": "repr", 
+                  "repr": "True"
+                }, 
+                "parent": {
+                  "type": "repr", 
+                  "repr": "None"
+                }, 
+                "dock_widget_title": {
+                  "type": "repr", 
+                  "repr": "u'PyQtGraph (6)'"
+                }
+              }, 
+              "groups": {}
+            }, 
+            "plugin": {
+              "keys": {
+                "autoscroll": {
+                  "type": "repr", 
+                  "repr": "True"
+                }, 
+                "plot_type": {
+                  "type": "repr", 
+                  "repr": "1"
+                }, 
+                "topics": {
+                  "type": "repr", 
+                  "repr": "[u'/filter/rpy/vector/z', u'/xsens/rpy_transformed/vector/z', u'/novatel/rpy/vector/z']"
+                }, 
+                "y_limits": {
+                  "type": "repr", 
+                  "repr": "[-179.993896484375, 179.98637242041704]"
+                }, 
+                "x_limits": {
+                  "type": "repr", 
+                  "repr": "[-16722585.760284185, -16722520.466514349]"
+                }
+              }, 
+              "groups": {}
+            }
+          }
+        }, 
+        "plugin__rqt_top__TOP__1": {
+          "keys": {}, 
+          "groups": {
+            "plugin": {
+              "keys": {
+                "is_regex": {
+                  "type": "repr", 
+                  "repr": "u'0'"
+                }, 
+                "filter_text": {
+                  "type": "repr", 
+                  "repr": "u''"
+                }
+              }, 
+              "groups": {}
+            }
+          }
+        }, 
+        "plugin__rqt_robot_monitor__RobotMonitor__1": {
+          "keys": {}, 
+          "groups": {
+            "plugin": {
+              "keys": {
+                "splitter": {
+                  "type": "repr(QByteArray.hex)", 
+                  "repr(QByteArray.hex)": "QtCore.QByteArray('000000ff00000000000000030000006400000064000000c801000000090100000002')", 
+                  "pretty-print": "       d d       "
+                }
+              }, 
+              "groups": {}
+            }
+          }
+        }
+      }
+    }, 
+    "mainwindow": {
+      "keys": {
+        "geometry": {
+          "type": "repr(QByteArray.hex)", 
+          "repr(QByteArray.hex)": "QtCore.QByteArray('01d9d0cb00010000000000410000001800000555000002ff000000410000001800000555000002ff000000000000')", 
+          "pretty-print": "     A   U   A   U     "
+        }, 
+        "state": {
+          "type": "repr(QByteArray.hex)", 
+          "repr(QByteArray.hex)": "QtCore.QByteArray('000000ff00000000fd000000010000000300000515000002b9fc0100000005fb00000026007200710074005f007200760069007a005f005f005200560069007a005f005f0031005f005f01000000000000074d0000000000000000fc000000000000027f0000017700fffffffa000000020100000003fb00000042007200710074005f0070006c006f0074005f005f0050006c006f0074005f005f0031005f005f00440061007400610050006c006f00740057006900640067006500740100000000ffffffff0000017700fffffffb00000042007200710074005f0070006c006f0074005f005f0050006c006f0074005f005f0032005f005f00440061007400610050006c006f00740057006900640067006500740100000000ffffffff0000017700fffffffb00000042007200710074005f0070006c006f0074005f005f0050006c006f0074005f005f0033005f005f00440061007400610050006c006f007400570069006400670065007401000000000000027f0000017700fffffffc00000285000002900000017700fffffffc0200000003fc00000019000002b9000000aa0100001dfa000000020100000003fb00000042007200710074005f0070006c006f0074005f005f0050006c006f0074005f005f0035005f005f00440061007400610050006c006f00740057006900640067006500740100000000ffffffff0000017700fffffffb00000042007200710074005f0070006c006f0074005f005f0050006c006f0074005f005f0034005f005f00440061007400610050006c006f00740057006900640067006500740100000000ffffffff0000017700fffffffb00000042007200710074005f0070006c006f0074005f005f0050006c006f0074005f005f0036005f005f00440061007400610050006c006f00740057006900640067006500740100000000ffffffff0000017700fffffffb00000042007200710074005f0070006c006f0074005f005f0050006c006f0074005f005f0037005f005f00440061007400610050006c006f00740057006900640067006500740100000019000003d50000000000000000fb00000042007200710074005f0070006c006f0074005f005f0050006c006f0074005f005f0038005f005f00440061007400610050006c006f00740057006900640067006500740100000312000000f80000000000000000fb00000022007200710074005f0074006f0070005f005f0054004f0050005f005f0031005f005f01000003fe000001170000000000000000fb00000062007200710074005f0072006f0062006f0074005f006d006f006e00690074006f0072005f005f0052006f0062006f0074004d006f006e00690074006f0072005f005f0031005f005f0052006f0062006f00740020004d006f006e00690074006f00720100000439000000dc0000000000000000000005150000000000000004000000040000000800000008fc00000001000000030000000100000036004d0069006e0069006d0069007a006500640044006f0063006b00570069006400670065007400730054006f006f006c0062006100720000000000ffffffff0000000000000000')", 
+          "pretty-print": "                 &rqt_rviz__RViz__1__              w                                                w                                           w                                           w                                                                    w                                           w                                           w                                                                                                                                                                           9                                                              "
+        }
+      }, 
+      "groups": {
+        "toolbar_areas": {
+          "keys": {
+            "MinimizedDockWidgetsToolbar": {
+              "type": "repr", 
+              "repr": "8"
+            }
+          }, 
+          "groups": {}
+        }
+      }
+    }
+  }
+}
