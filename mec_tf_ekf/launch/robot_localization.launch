@@ -15,18 +15,12 @@
 
   <!-- Launch local EKF node (odom frame) -->
   <node pkg="robot_localization" type="ekf_localization_node" name="ekf_local" clear_params="true">
-    <!--#####################################################-->
-    <!-- TODO: Remap topic of LOCAL EKF Estimator -->
-    <!-- <remap from="odometry/filtered" to="OUTPUT_TOPIC"/> -->
-    <!--#####################################################-->
+    <remap from="odometry/filtered" to="odometry/filtered_odom"/>
   </node>
 
   <!-- Launch Global EKF node (map frame) -->
   <node pkg="robot_localization" type="ekf_localization_node" name="ekf_global" clear_params="true">
-    <!--#####################################################-->
-    <!-- TODO: Remap topic of GLOBAL EKF Estimator -->
-    <!-- <remap from="odometry/filtered" to="OUTPUT_TOPIC"/> -->
-    <!--#####################################################-->
+    <remap from="odometry/filtered" to="odometry/filtered_map"/>
   </node>
 
   <!-- RVIZ-->
